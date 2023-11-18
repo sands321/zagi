@@ -22,7 +22,7 @@ Release the power of GPT
 
 ## 相关文章
 
-1. [知乎：GPTs调本地python实现越狱](https://zhuanlan.zhihu.com/p/666467937)
+1. [知乎：GPTs和本地代码打通](https://zhuanlan.zhihu.com/p/667558479)
 
 ## 看下效果
 
