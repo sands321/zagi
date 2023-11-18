@@ -1,0 +1,36 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "run python code",
+    "description": "run python code",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://xxx"
+    }
+  ],
+  "paths": {
+    "/zagi/code": {
+      "get": {
+        "description": "it's a jupyter notebook,you can run python code and bash commands",
+        "operationId": "runPython",
+        "parameters": [
+          {
+            "name": "v",
+            "in": "query",
+            "description": "code",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "deprecated": false
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}
