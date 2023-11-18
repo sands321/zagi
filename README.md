@@ -24,7 +24,7 @@ Release the power of GPT
 
 1. [知乎：GPTs调本地python实现越狱](https://zhuanlan.zhihu.com/p/666467937)
 
-# 看下效果
+## 看下效果
 
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/plot.jpg)
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/fn.jpg)
