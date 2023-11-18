@@ -26,8 +26,8 @@ Release the power of GPT
 
 # 看下效果
 
-![image](https://github.com/sands321/zagi/blob/master/screenshots/plot.png)
-![image](https://github.com/sands321/zagi/blob/master/screenshots/fn.png)
+![image](https://github.com/sands321/zagi/blob/master/screenshots/plot.jpg)
+![image](https://github.com/sands321/zagi/blob/master/screenshots/fn.jpg)
 
 
 
