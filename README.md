@@ -29,5 +29,9 @@ Release the power of GPT
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/plot.jpg)
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/fn.jpg)
 
+## 联系方式
+WeChat：zhucheng798
+知乎：[星辰](https://www.zhihu.com/people/xing-chen-78-84)
+
 
 
