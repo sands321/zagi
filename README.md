@@ -1,6 +1,13 @@
 # ZAGI
 Release the power of GPT
 
+# ChatGPT Chrome插件
+1. 功能示例
+![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_demo.png)
+
+2. 安装方法
+![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_install.png)
+
 # GPTs调用本地python，解决联网、调三方库问题
 
 1. 创建GPTs
