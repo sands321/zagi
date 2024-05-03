@@ -14,7 +14,7 @@
     "rule_resources": [{
       "id": "ruleset1",
       "enabled": true,
-      "path": "rules_bak.json"
+      "path": "rules_dev.json"
     }]
   },
   "icons": {
@@ -26,7 +26,6 @@
     {
       "matches": [
         "https://chat.openai.com/*",
-        "https://cdn.oaistatic.com/*"
       ],
       "css": [
       ],

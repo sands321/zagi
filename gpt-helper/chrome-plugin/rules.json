@@ -4,11 +4,11 @@
   "action": {
     "type": "redirect",
     "redirect": {
-      "url": "https://service-qou1kosp-1253869226.bj.tencentapigw.com.cn/release/?url=${request.url}"
+      "regexSubstitution": "https://service-qou1kosp-1253869226.bj.tencentapigw.com.cn/release/?url=\\0"
     }
   },
   "condition": {
-    "urlFilter": "cdn.oaistatic.com/_next/static/chunks/pages/_app-*",
+    "regexFilter": "https://cdn.oaistatic.com/_next/static/chunks/pages/_app-.*",
     "resourceTypes": ["script"]
   }
 },
@@ -18,11 +18,11 @@
   "action": {
     "type": "redirect",
     "redirect": {
-      "url": "https://service-qou1kosp-1253869226.bj.tencentapigw.com.cn/release/?url=${request.url}"
+      "regexSubstitution": "https://service-qou1kosp-1253869226.bj.tencentapigw.com.cn/release/?url=\\0"
     }
   },
   "condition": {
-    "urlFilter": "cdn.oaistatic.com/_next/static/chunks/3445-*",
+    "regexFilter": "https://cdn.oaistatic.com/_next/static/chunks/3445-.*",
     "resourceTypes": ["script"]
   }
 },
@@ -36,7 +36,8 @@
     ]
   },
   "condition": {
-    "urlFilter": "chat.openai.com/*",
+    "urlFilter": "https://chat.openai.com/*",
     "resourceTypes": ["main_frame", "sub_frame"]
   }
-}]
+}
+]
