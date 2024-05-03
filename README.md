@@ -8,6 +8,11 @@ Release the power of GPT
 2. 安装方法
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_install.png)
 
+3. 即将开放
+* 快捷键：/xx扩展成prompt, 大幅提升prompt复用
+* 和其他网站联动：网页qa、youtube qa之类的
+* 修改头像
+
 # GPTs调用本地python，解决联网、调三方库问题
 
 1. 创建GPTs
