@@ -1,0 +1,1 @@
+zip -j publish/gpt-helper.zip chrome-plugin.crx chrome-plugin/manifest.json
