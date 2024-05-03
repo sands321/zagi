@@ -1,0 +1,1 @@
+pip39 install fastapi uvicorn requests==2.25.1 -t deps
