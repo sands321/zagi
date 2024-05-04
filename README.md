@@ -2,14 +2,18 @@
 Release the power of GPT
 
 # ChatGPT Chrome插件
-1. 功能示例
+1. 基础功能
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_demo.png)
 
-2. 安装方法
+2. 自定义Prompt模版
+![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_temp.png)
+![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_temp_trigger.png)
+![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_temp_expand.png)
+
+3. 安装方法
 ![image](https://github.com/sands321/zagi/blob/master/screenshots/cr_install.png)
 
-3. 即将开放
-* 快捷键：/xx扩展成prompt, 大幅提升prompt复用
+4. 即将开放
 * 和其他网站联动：网页qa、youtube qa之类的
 * 修改头像
 
