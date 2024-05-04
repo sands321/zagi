@@ -6,7 +6,7 @@
     "declarativeNetRequest"
   ],
   "host_permissions": [
-    "https://chat.openai.com/*",
+    "https://chatgpt.com/*",
     "https://cdn.oaistatic.com/*"
   ],
   "declarative_net_request": {
@@ -24,7 +24,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://chat.openai.com/*"
+        "https://chatgpt.com/*"
       ],
       "css": [
       ],
@@ -35,7 +35,7 @@
   ],
   "web_accessible_resources":[{
     "resources":[ "gpt/assets/index.js" ],
-    "matches":["https://chat.openai.com/*"]
+    "matches":["https://chatgpt.com/*"]
   }],
   "manifest_version": 3
 }
