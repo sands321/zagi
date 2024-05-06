@@ -1,6 +1,7 @@
 
 //eg>>chrome-extension://hienomobjhfbdclmdnihmpppamckjopl/./gpt/assets/index.js
 let f_js=`./gpt/assets/index.js`
+// let f_js=`http://localhost/zagi/assets/index.js`
 
 function inj_gpt(){
   var script = document.createElement('script');
