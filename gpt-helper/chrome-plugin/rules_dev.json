@@ -22,7 +22,7 @@
     }
   },
   "condition": {
-    "regexFilter": "https://cdn.oaistatic.com/_next/static/chunks/4327-.*",
+    "regexFilter": "https://cdn.oaistatic.com/_next/static/chunks/\\d{4}-.*",
     "resourceTypes": ["script"]
   }
 },
