@@ -5,7 +5,7 @@ let f_js=`./gpt/assets/index.js`
 
 function inj_gpt(){
   var script = document.createElement('script');
-  script.src = chrome.runtime.getURL(f_js);
+  script.src = f_js.startsWith(`http`)?f_js:chrome.runtime.getURL(f_js);
   document.head.appendChild(script);
 }
 
