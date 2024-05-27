@@ -2,6 +2,20 @@
   "name": "GPT Helper",
   "version": "1.3",
   "description": "Release the power of ChatGPT",
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*",
+    "https://cdn.oaistatic.com/*"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset1",
+      "enabled": true,
+      "path": "rules_dev.json"
+    }]
+  },
   "icons": {
     "16": "icons/icon16.jpg",
     "48": "icons/icon48.jpg",
